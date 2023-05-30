@@ -8,7 +8,7 @@ I'm a Full-Stack Developer passionate about the entire spectrum of software deve
 
 - 💻 I have experience in both frontend and backend development, proficient in Golang, Java, Flutter, Dart, and Typescript.
 
-- 🌱 Currently, I'm enhancing my knowledge of Docker and AWS, and I'm open to collaborating on projects using these technologies.
+- 🌱 Currently, I'm enhancing my knowledge of Docker, Kubernetes and AWS, and I'm open to collaborating on projects using these technologies.
 
 - 💬 Ask me about Full-Stack Development, and my experiences.
 
