@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm EinBexiii (pronounced Eye-in-Bex-three)
+# Hello, World! 👋 I'm EinBexiii (Erik Miller)
 
 I'm a Full-Stack Developer passionate about the entire spectrum of software development, from frontend to backend. I've honed my skills in a diverse set of programming languages and tools and I'm always eager to take on new challenges and continuously learn.
 
