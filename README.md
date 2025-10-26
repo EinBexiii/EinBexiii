@@ -1,43 +1,52 @@
-# Hello, World! 👋 I'm EinBexiii (Erik Miller)
+# Erik Miller
 
-I'm a Full-Stack Developer passionate about the entire spectrum of software development, from frontend to backend. I've honed my skills in a diverse set of programming languages and tools and I'm always eager to take on new challenges and continuously learn.
-
----
-
-## 🚀 About Me
-
-- 💻 I have experience in both frontend and backend development, proficient in Golang, Java, Flutter, Dart, and Typescript.
-
-- 🌱 Currently, I'm enhancing my knowledge of Docker, Kubernetes and AWS, and I'm open to collaborating on projects using these technologies.
-
-- 💬 Ask me about Full-Stack Development, and my experiences.
-
-- ⚡ Fun fact: I love to hit the gym
-
-- 📫 How to reach me: Feel free to contact me on Discord at Bex#1000
+Building software that matters. Infrastructure. Mobile. Full-Stack.
 
 ---
 
-## 🔧 Technologies & Tools
+## WHAT I DO
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4AB197)
+I build systems that scale and mobile apps people actually use.
+Backend architecture, cross-platform development, native solutions.
+
+No fluff. Just code that works.
+
+**Current focus:**
+- Infrastructure & distributed systems
+- Cross-platform mobile (Flutter)
+- Native mobile development
+- Full-stack architecture
+
+**When offline:** Iron & discipline
 
 ---
 
-## 📈 My GitHub Stats
+## TECH STACK
 
-[![EinBexiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinBexiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**Backend & Infrastructure**
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Mobile Development**
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
-### 🌎 Let's connect
+## METRICS
 
-Feel free to reach out if you're looking for a developer, have a question, or want to connect.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EinBexiii&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ADD8&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Badge](https://img.shields.io/badge/-Bex%231000-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/Bex#1000)
+---
+
+## CONTACT
+
+Need something built right?
+
+**Discord:** majorbex
+
+---
+
+*"Write code like you're lifting weights – with purpose and intensity."*
